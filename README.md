@@ -1,18 +1,7 @@
-## 1. Project Name: **Guidex**
+## Preview
+https://www.youtube.com/watch?v=Rmc_ZfOmCXA
 
-## 2. Team Members
-
-| Name                | Student ID |
-| ------------------- | ---------- |
-| Maksat Abrayev      |  22201182  |
-| Abdulaleem ALtarsha |  22201438  |
-| Mehmet Efe Sak      |  22202977  |
-| Ahmed Haikal        |  22001482  |            
-
-
----
-
-## 3. Description
+## Description
 
 ### Our Motivation
 Our motivation is to give the best experience to students visiting Bilkent, which starts with the application process. We want this experience to attract the brightest minds and show them the greatness of our university.
